@@ -24,10 +24,11 @@ https://driz2le.tistory.com/253
 5) 하단 Keyboard input method system 설정을 fcitx로 바꾼다.
 ![Screenshot from 2024-11-14 20-36-17](https://github.com/user-attachments/assets/751b3b9f-fb13-4056-9b7c-a32fd4106976)
 
-재부팅
-
+6) 재부팅
+7) 하단 + 누르고 hangul 찾기
 ![Screenshot from 2024-11-14 20-37-38](https://github.com/user-attachments/assets/3a7d3bc0-7905-490f-aece-15f61856f97d)
 ![Screenshot from 2024-11-14 20-38-33](https://github.com/user-attachments/assets/5fdef70c-09e0-4a0f-8d53-d249796bb26f)
+8) 공백칸 누르고 '한/영'키 입력
 ![Screenshot from 2024-11-14 20-39-23](https://github.com/user-attachments/assets/a5616675-0150-4d1d-9e25-798ebb86021e)
 
 </details>
@@ -58,4 +59,9 @@ https://driz2le.tistory.com/253
     --device /dev/video0 \
     nvcr.io/nvidia/dli/dli-nano-ai:v2.0.2-r32.7.1kr
 ![Screenshot from 2024-11-14 21-30-33](https://github.com/user-attachments/assets/d36251a2-67c8-409c-bde9-a5038aee8b57)
+
+3) allow 10 sec for JupyterLab to start @ http://192.168.176.16:8888 (password dlinano)
+JupterLab logging location:  /var/log/jupyter.log  (inside the container)
+root@ai-desktop:/nvdli-nano# 
+![Screenshot from 2024-11-14 21-38-48](https://github.com/user-attachments/assets/3e03b97b-a22a-4847-b886-8616ea187a0f)
 
