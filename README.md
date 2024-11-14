@@ -12,3 +12,8 @@ https://developer.nvidia.com/embedded/learn/get-started-jetson-nano-devkit#write
 # 실습
 
 ## 카메라 인식
+
+
+![Screenshot from 2024-11-14 20-53-18](https://github.com/user-attachments/assets/c8e194bf-1b46-4e40-85a3-4b1deca71734)
+
+
