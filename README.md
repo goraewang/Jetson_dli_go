@@ -40,3 +40,18 @@ https://driz2le.tistory.com/253
 
 
 ![Screenshot from 2024-11-14 20-52-20](https://github.com/user-attachments/assets/28629904-0613-4bf0-b256-a82fac056ab1)
+
+
+1) 교육과정에 필요한 dir 추가하기
+~$ mkdir -p ~/nvdli-data
+
+~$ ls
+
+2) sudo docker run --runtime nvidia -it --rm --network host \
+    --memory=500M --memory-swap=4G \
+    --volume ~/nvdli-data:/nvdli-nano/data \
+    --volume /tmp/argus_socket:/tmp/argus_socket \
+    --device /dev/video0 \
+    nvcr.io/nvidia/dli/dli-nano-ai:v2.0.2-r32.7.1kr
+![Screenshot from 2024-11-14 21-30-33](https://github.com/user-attachments/assets/d36251a2-67c8-409c-bde9-a5038aee8b57)
+
