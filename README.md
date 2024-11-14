@@ -9,7 +9,10 @@ https://developer.nvidia.com/embedded/learn/get-started-jetson-nano-devkit#write
 ### 3. 계정 설정
 
 ### 4. Ubuntu 한글 입력기 설치
-https://driz2le.tistory.com/253 
+https://driz2le.tistory.com/253
+<details>
+    <summary>자세히</summary>
+
 1) 크롬 띄우고 링크로 가기
 ![Screenshot from 2024-11-14 20-22-09](https://github.com/user-attachments/assets/c40c4a0d-11b1-4ba0-8725-045627dd0523)
 2) ![Screenshot from 2024-11-14 21-04-02](https://github.com/user-attachments/assets/89fc8d97-158b-4114-94c9-9307cacad79c) Terminal에서 $ sudo apt-get update 입력
@@ -27,6 +30,7 @@ https://driz2le.tistory.com/253
 ![Screenshot from 2024-11-14 20-38-33](https://github.com/user-attachments/assets/5fdef70c-09e0-4a0f-8d53-d249796bb26f)
 ![Screenshot from 2024-11-14 20-39-23](https://github.com/user-attachments/assets/a5616675-0150-4d1d-9e25-798ebb86021e)
 
+</details>
 
 # Jetson-nano
 ![jetson-nano-dev-kit-top-r6-HR-B01](https://github.com/user-attachments/assets/b713300c-4429-41c0-9474-7b443e2ebee0)
