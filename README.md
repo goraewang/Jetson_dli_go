@@ -1,3 +1,11 @@
+# Jetson-nano
+<details>
+    <summary>이미지 보기</summary>
+    
+![jetson-nano-dev-kit-top-r6-HR-B01](https://github.com/user-attachments/assets/b713300c-4429-41c0-9474-7b443e2ebee0)
+
+</details>
+
 # 준비하는 과정
 
 ### 1. SD Card Formatter 다운로드
@@ -32,9 +40,6 @@ https://driz2le.tistory.com/253
 ![Screenshot from 2024-11-14 20-39-23](https://github.com/user-attachments/assets/a5616675-0150-4d1d-9e25-798ebb86021e)
 
 </details>
-
-# Jetson-nano
-![jetson-nano-dev-kit-top-r6-HR-B01](https://github.com/user-attachments/assets/b713300c-4429-41c0-9474-7b443e2ebee0)
 
 # 실습
 
