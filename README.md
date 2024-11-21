@@ -77,4 +77,7 @@ JupterLab logging location:  /var/log/jupyter.log  (inside the container)
 root@ai-desktop:/nvdli-nano# 
 ![Screenshot from 2024-11-14 21-38-48](https://github.com/user-attachments/assets/3e03b97b-a22a-4847-b886-8616ea187a0f)
 
+4) ![20241121_195357 (1)](https://github.com/user-attachments/assets/6e58f474-4763-472a-9214-09ef7149a68e)
+
+
 </details>
