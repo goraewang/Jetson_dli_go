@@ -45,13 +45,20 @@ https://driz2le.tistory.com/253
 
 ## 카메라 인식
 
+<details>
+    <summary>자세히</summary>
 
 ![Screenshot from 2024-11-14 20-53-18](https://github.com/user-attachments/assets/c8e194bf-1b46-4e40-85a3-4b1deca71734)
 
 
 ![Screenshot from 2024-11-14 20-52-20](https://github.com/user-attachments/assets/28629904-0613-4bf0-b256-a82fac056ab1)
 
+</details>
 
+## 헤드리스모드
+
+<details>
+    <summary>자세히</summary>
 1) 교육과정에 필요한 dir 추가하기
 ~$ mkdir -p ~/nvdli-data
 
@@ -70,3 +77,4 @@ JupterLab logging location:  /var/log/jupyter.log  (inside the container)
 root@ai-desktop:/nvdli-nano# 
 ![Screenshot from 2024-11-14 21-38-48](https://github.com/user-attachments/assets/3e03b97b-a22a-4847-b886-8616ea187a0f)
 
+</details>
